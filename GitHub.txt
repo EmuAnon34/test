@@ -1,1 +1,1 @@
-http://web.archive.org/web/*/https://github.com/*
+`https://raw.githubusercontent.com`
